@@ -1,0 +1,12 @@
+First Name,
+Last Name,
+Email,
+Phone Number,
+Job Title,
+Company Name,
+Company size,
+Personal State,
+Personal City,
+Personal Zip Code,
+Industry,
+Primary Industry

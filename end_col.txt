@@ -1,0 +1,12 @@
+First Name: First Name, Form - First Name,
+Last Name: Last Name, Form - Last Name,
+Email,
+Phone Number: Phone Number, Mobile Phone Number, Form - Phone Number  ,
+Job Title: Job Title, Form - Job Title     ,
+Company Name: Company Name, Form - Company Name,
+Company size,
+Personal State: Personal State. State/Region, State (U.S.) ,
+Personal City: Personal City, City, Form - City,
+Personal Zip Code: Personal Zip Code, Postal Code ,
+Industry, 
+Primary Industry 

@@ -1,0 +1,17 @@
+n.py 
+First Name             9240
+Last Name              9240
+Company Name           8916
+Company size           2724
+Email                  8259
+Employee Range         6613
+Employee Size Zoom     6333
+Industry               2296
+Job Title              9190
+Number of Employees      44
+Personal City          9096
+Personal State         9240
+Personal Zip Code      7182
+Phone Number           4032
+Primary Industry       6612
+dtype: int64

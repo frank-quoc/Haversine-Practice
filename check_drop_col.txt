@@ -1,0 +1,7 @@
+'First Name', 'Last Name', 'City', 'Company Name',
+       'Company size', 'Company Size (ZoomInfo)', 'Email', 'Employee Range',
+       'Employee Size Zoom ', 'Form - City', 'Form - Company Name',
+       'Form - First Name', 'Form - Job Title', 'Form - Last Name',
+       'Form - Phone Number', 'Industry', 'Job Title', 'Mobile Phone Number',
+       'Number of Employees', 'Personal City', 'Personal State',
+       'Personal Zip Code', 'Phone Number', 'Postal Code', 'Primary Industry'

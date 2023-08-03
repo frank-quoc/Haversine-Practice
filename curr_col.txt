@@ -1,0 +1,12 @@
+'First Name',
+'Last Name',
+'Company Name',
+'Email',
+'Industry',
+'Job Title',
+'Personal City',
+'Personal State',
+'Personal Zip Code',
+'Phone Number',
+'Primary Industry'
+'Company size'
